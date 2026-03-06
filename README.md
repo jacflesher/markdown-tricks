@@ -4,22 +4,22 @@ Here are the different types of alerts you can use in GitHub, along with their p
 
 *   **NOTE**: Highlights useful information that users should know, even when skimming.
     ```markdown
-    > **⚠️ NOTE**  
+    > **🗒️ NOTE**  
     > Useful information that users should know.
     ```
 *   **TIP**: Provides helpful advice for doing things better or more easily.
     ```markdown
-    > **⚠️ TIP**  
+    > **✅ TIP**  
     > Helpful advice for doing things more efficiently.
     ```
 *   **IMPORTANT**: Indicates crucial information necessary for users to succeed.
     ```markdown
-    > **⚠️ IMPORTANT**  
+    > ** IMPORTANT**  
     > Key information you need to know to complete this step.
     ```
 *   **WARNING**: Demands immediate user attention due to potential risks or to avoid problems. (This is similar to your example but with a standardized GitHub rendering).
     ```markdown
-    > **⚠️ WARNING**  
+    > **‼️ WARNING**  
     > Urgent info that needs immediate user attention to avoid problems.
     ```
 *   **CAUTION**: Advises about risks or negative outcomes of certain actions.
